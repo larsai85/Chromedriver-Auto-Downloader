@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment configuration
+.env
+
+# Ignore pipenv and pipfile.lock
+Pipfile
+Pipfile.lock
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Folders
+driver/
