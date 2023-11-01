@@ -22,7 +22,7 @@ python chromedriver_downloader.py
 ## Configuration
 The script utilizes an API from Google Chrome Labs to retrieve information about available Chromedriver versions. Ensure that you have internet access when running the script.
 
-##Contributions
+## Contributions
 If you encounter issues, have suggestions, or wish to contribute, feel free to open an issue or submit a pull request!
 
 ---
